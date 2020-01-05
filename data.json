@@ -1,1218 +1,1521 @@
-[
-    {
-      "name": "abate",
-      "description": "v. lessen in intensity of degree"
-    },
-    {
-      "name": "aberrant",
-      "description": "adj. deviating from the norm (n. aberration)"
-    },
-    {
-      "name": "abscond",
-      "description": "v. depart clandestinely; steal off and hide"
-    },
-    {
-      "name": "accolade",
-      "description": "n. an expression of praise"
-    },
-    {
-      "name": "acerbic",
-      "description": "adj. having a sour or bitter taste or character; sharp; biting"
-    },
-    {
-      "name": "acumen",
-      "description": "n. keen, accurate judgement or insight"
-    },
-    {
-      "name": "adulation",
-      "description": "n. excessive praise; intense adoration"
-    },
-    {
-      "name": "adulterate",
-      "description": "v. reduce purity by combining with inferior ingredients"
-    },
-    {
-      "name": "aesthetic",
-      "description": "adj. dealing with, appreciative of, or responsive to art or the beautiful"
-    },
-    {
-      "name": "aggrandize",
-      "description": "v. increase in intensity, power, influence, or prestige"
-    },
-    {
-      "name": "alacrity",
-      "description": "n. great willingness or enthusiasm"
-    },
-    {
-      "name": "alchemy",
-      "description": "n. a medieval science aimed at the transmutation of metals, esp. base metals into gold"
-    },
-    {
-      "name": "amalgamate",
-      "description": "v. combine several elements into a whole (n. amalgamation)"
-    },
-    {
-      "name": "ameliorate",
-      "description": "v. make better or more tolerable"
-    },
-    {
-      "name": "amenable",
-      "description": "adj. agreeable; responsive to suggestion"
-    },
-    {
-      "name": "anachronism",
-      "description": "n. something or someone out of place in terms of historical or chronological context"
-    },
-    {
-      "name": "anomaly",
-      "description": "n. deviation from the normal order, form, or rule; abnormality (adj. anomalous)"
-    },
-    {
-      "name": "approbation",
-      "description": "n. an expression of approval or praise"
-    },
-    {
-      "name": "archaic",
-      "description": "adj. outdated; associated with an earlier, perhaps more primitive, time"
-    },
-    {
-      "name": "arduous",
-      "description": "adj. strenuous; taxing; requiring significant effort"
-    },
-    {
-      "name": "ascetic",
-      "description": "n. one who practices rigid self–denial, esp. as an act of religious devotion"
-    },
-    {
-      "name": "assuage",
-      "description": "v. ease or lessen; appease or pacify"
-    },
-    {
-      "name": "astringent",
-      "description": "adj./n. having a tightening effect on living tissue; harsh; severe"
-    },
-    {
-      "name": "audacious",
-      "description": "adj. daring and fearless; recklessly bold (n. audacity)"
-    },
-    {
-      "name": "austere",
-      "description": "adj. without adornment; bare; severely simple; ascetic (n. austerity)"
-    },
-    {
-      "name": "avarice",
-      "description": "n. greed, esp. for wealth (adj. avaricious)"
-    },
-    {
-      "name": "aver",
-      "description": "v. state as a fact; declare or assert"
-    },
-    {
-      "name": "axiom",
-      "description": "n. a universally recognized principle (adj. axiomatic)"
-    },
-    {
-      "name": "axiomatic",
-      "description": "adj. taken as a given; possessing self–evident truth (n. axiom)"
-    },
-    {
-      "name": "bolster",
-      "description": "v. provide support or reinforcement"
-    },
-    {
-      "name": "bombast",
-      "description": "n. self–important or pompous writing or speech (adj. bombastic)"
-    },
-    {
-      "name": "bombastic",
-      "description": "adj. pompous; grandiloquent (n. bombast)"
-    },
-    {
-      "name": "bucolic",
-      "description": "adj. rustic and pastoral; characteristic of rural areas and their inhabitants"
-    },
-    {
-      "name": "burgeon",
-      "description": "v. grow rapidly or flourish"
-    },
-    {
-      "name": "cacophony",
-      "description": "n. harsh, jarring, discordant sound; dissonance (adj. cacophonous)"
-    },
-    {
-      "name": "canon",
-      "description": "n. an established set of principles or code of laws, often religious in nature (adj. canonical)"
-    },
-    {
-      "name": "canonical",
-      "description": "adj. following or in agreement with accepted, traditional standards (n. canon)"
-    },
-    {
-      "name": "capricious",
-      "description": "adj. inclined to change one's mind impulsively; erratic; unpredictable"
-    },
-    {
-      "name": "castigation",
-      "description": "n. severe criticism or punishment (v. castigate)"
-    },
-    {
-      "name": "catalyst",
-      "description": "n. a substance that accelerates the rate of a chemical reaction without itself changing; a person of thing that causes change"
-    },
-    {
-      "name": "caustic",
-      "description": "adj. burning or stinging; causing corrosion"
-    },
-    {
-      "name": "censure",
-      "description": "v. criticize severely; officially rebuke"
-    },
-    {
-      "name": "chary",
-      "description": "adj. wary; cautious; sparing"
-    },
-    {
-      "name": "chicanery",
-      "description": "n. trickery or subterfuge"
-    },
-    {
-      "name": "cogent",
-      "description": "adj. appealing forcibly to the mind or reason; convincing"
-    },
-    {
-      "name": "complaisance",
-      "description": "n. the willingness to comply with wishes of others (adj. complaisant)"
-    },
-    {
-      "name": "connoisseur",
-      "description": "n. an informed and astute judge in matters of taste; expert"
-    },
-    {
-      "name": "contentious",
-      "description": "adj. argumentative; quarrelsome; causing controversy or disagreement"
-    },
-    {
-      "name": "contiguous",
-      "description": "adj. sharing a border; touching; adjacent"
-    },
-    {
-      "name": "contrite",
-      "description": "adj. regretful; penitent; seeking forgiveness (n. contrition)"
-    },
-    {
-      "name": "convention",
-      "description": "n. a generally agreed–upon practice or attitude"
-    },
-    {
-      "name": "convoluted",
-      "description": "adj. complex or complicated"
-    },
-    {
-      "name": "credulous",
-      "description": "adj. tending to believe too readily; gullible (n. credulity)"
-    },
-    {
-      "name": "culpable",
-      "description": "adj. deserving blame (n. culpability)"
-    },
-    {
-      "name": "cynicism",
-      "description": "n. an attitude or quality of belief that all people are motivated by selfishness (adj. cynical)"
-    },
-    {
-      "name": "dearth",
-      "description": "n. smallness of quantity or number; scarcity; a lack"
-    },
-    {
-      "name": "decorum",
-      "description": "n. polite or appropriate conduct or behavior (adj. decorous)"
-    },
-    {
-      "name": "demur",
-      "description": "v. question or oppose"
-    },
-    {
-      "name": "derision",
-      "description": "n. scorn; ridicule; contemptuous treatment (adj. derisive, v. deride)"
-    },
-    {
-      "name": "desiccate",
-      "description": "v. dry out or dehydrate; make dry or dull"
-    },
-    {
-      "name": "diatribe",
-      "description": "n. a harsh denunciation"
-    },
-    {
-      "name": "didactic",
-      "description": "adj. intended to teach or instruct"
-    },
-    {
-      "name": "dilettante",
-      "description": "n. one with an amateurish or superficial interest in the arts or a branch of knowledge"
-    },
-    {
-      "name": "disabuse",
-      "description": "v. undeceive; set right"
-    },
-    {
-      "name": "discordant",
-      "description": "adj. conflicting; dissonant or harsh in mind"
-    },
-    {
-      "name": "discretion",
-      "description": "n. cautious reserve in speech; ability to make responsible decisions (adj. discreet)"
-    },
-    {
-      "name": "disinterested",
-      "description": "adj. free of bias of self–interest; impartial"
-    },
-    {
-      "name": "disparage",
-      "description": "v. slight or belittle"
-    },
-    {
-      "name": "disparate",
-      "description": "adj. fundamentally distinct or dissimilar"
-    },
-    {
-      "name": "dissemble",
-      "description": "v. disguise or conceal; mislead"
-    },
-    {
-      "name": "divulge",
-      "description": "v. disclose something secret"
-    },
-    {
-      "name": "dogmatic",
-      "description": "adj. expressing a rigid opinion based on unproved or unprovable principles (n. dogma)"
-    },
-    {
-      "name": "ebullience",
-      "description": "adj. the quality of lively or enthusiastic expression of thoughts and feelings (adj. ebullient)"
-    },
-    {
-      "name": "eccentric",
-      "description": "adj. departing from norms or conventions"
-    },
-    {
-      "name": "eclectic",
-      "description": "adj. composed of elements drawn from various sources"
-    },
-    {
-      "name": "effrontery",
-      "description": "n. extreme boldness; presumptuousness"
-    },
-    {
-      "name": "elegy",
-      "description": "n. a mournful poem, esp. one lamenting the dead (adj. elegiac)"
-    },
-    {
-      "name": "eloquent",
-      "description": "adj. well–spoken; expressive; articulate (n. eloquence)"
-    },
-    {
-      "name": "emollient",
-      "description": "adj. / n. soothing, esp. to the skin; making less harsh; mollifying; an agent that softens of smoothes the skin"
-    },
-    {
-      "name": "empirical",
-      "description": "adj. based on observation or experiment"
-    },
-    {
-      "name": "endemic",
-      "description": "adj. characteristic of or often found in a particular locality, region, or people"
-    },
-    {
-      "name": "enervate",
-      "description": "v. weaken; reduce in vitality"
-    },
-    {
-      "name": "enigmatic",
-      "description": "adj. mysterious; obscure; difficult to understand (n. enigma)"
-    },
-    {
-      "name": "ennui",
-      "description": "n. dissatisfaction and restlessness resulting from boredom or apathy"
-    },
-    {
-      "name": "ephemeral",
-      "description": "lasting or used for only a short period of time"
-    },
-    {
-      "name": "equivocate",
-      "description": "v. use ambiguous language with a deceptive intent (adj. equivocal)"
-    },
-    {
-      "name": "erudite",
-      "description": "adj. very learned; scholarly (n. erudition)"
-    },
-    {
-      "name": "esoteric",
-      "description": "adj. intended for or understood by a small, specific group"
-    },
-    {
-      "name": "eulogy",
-      "description": "n. a speech or piece of writing praising somebody/something very much"
-    },
-    {
-      "name": "evanescent",
-      "description": "adj. tending to disappear like vapor; vanishing"
-    },
-    {
-      "name": "exacerbate",
-      "description": "v. make worse or more severe"
-    },
-    {
-      "name": "exculpate",
-      "description": "v. exonerate; clear of blame"
-    },
-    {
-      "name": "exigent",
-      "description": "adj. urgent; pressing; requiring immediate action or attention"
-    },
-    {
-      "name": "exonerate",
-      "description": "v. remove blame"
-    },
-    {
-      "name": "extemporaneous",
-      "description": "adj. improvised; done without preparation"
-    },
-    {
-      "name": "facetious",
-      "description": "adj. playful; humorous"
-    },
-    {
-      "name": "fallacy",
-      "description": "n. an invalid or incorrect notion; a mistaken belief (adj. fallacious)"
-    },
-    {
-      "name": "fawn",
-      "description": "v. flatter or praise excessively"
-    },
-    {
-      "name": "fervent",
-      "description": "adj. greatly emotional or zealous (n. fervor)"
-    },
-    {
-      "name": "filibuster",
-      "description": "n. intentional obstruction, esp. using prolonged speechmaking to delay legislative action"
-    },
-    {
-      "name": "flout",
-      "description": "v. show contempt for, as in a rule or convention"
-    },
-    {
-      "name": "fortuitous",
-      "description": "adj. happening by accident or chance"
-    },
-    {
-      "name": "fulminate",
-      "description": "v. loudly attack or denounce"
-    },
-    {
-      "name": "furtive",
-      "description": "adj. marked by stealth; covert; surreptitious"
-    },
-    {
-      "name": "garrulous",
-      "description": "adj. pointlessly talkative, talking too much"
-    },
-    {
-      "name": "germane",
-      "description": "adj. relevant to the subject at hand; appropriate in subject matter"
-    },
-    {
-      "name": "glib",
-      "description": "adj. marked by ease or informality; nonchalant; lacking in depth; superficial"
-    },
-    {
-      "name": "grandiloquence",
-      "description": "n. pompous speech or expression (adj. grandiloquent)"
-    },
-    {
-      "name": "gregarious",
-      "description": "adj. sociable; outgoing; enjoying the company of other people"
-    },
-    {
-      "name": "hackneyed",
-      "description": "adj. rendered trite or commonplace by frequent usage"
-    },
-    {
-      "name": "halcyon",
-      "description": "adj. calm and peaceful"
-    },
-    {
-      "name": "harangue",
-      "description": "v. / n. deliver a pompous speech or tirade; a long, pompous speech"
-    },
-    {
-      "name": "hedonism",
-      "description": "n. devotion to pleasurable pursuits, esp. to the pleasures of the senses ( a hedonist is someone who purses pleasure)"
-    },
-    {
-      "name": "hegemony",
-      "description": "n. the consistent dominance of one state or ideology over others"
-    },
-    {
-      "name": "heretical",
-      "description": "adj. violating accepted dogma or convention (n. heresy)"
-    },
-    {
-      "name": "hubris",
-      "description": "n. overbearing presumption or pride; arrogance"
-    },
-    {
-      "name": "hyperbole",
-      "description": "n. an exaggerated statement, often used as a figure of speech (adj. hyperbolic)"
-    },
-    {
-      "name": "iconoclast",
-      "description": "a person who criticizes popular beliefs or established customs and ideas"
-    },
-    {
-      "name": "idolatrous",
-      "description": "adj. given to intense or excessive devotion to something (n. idolatry)"
-    },
-    {
-      "name": "imminent",
-      "description": "adj. about to happen; impending"
-    },
-    {
-      "name": "immutable",
-      "description": "adj. not capable of change"
-    },
-    {
-      "name": "impassive",
-      "description": "adj. revealing no emotion"
-    },
-    {
-      "name": "impecunious",
-      "description": "adj. lacking funds; without money"
-    },
-    {
-      "name": "imperturbable",
-      "description": "adj. marked by extreme clam, impassivity, and steadiness"
-    },
-    {
-      "name": "impetuous",
-      "description": "adj. hastily or rashly energetic; impulsive and vehement"
-    },
-    {
-      "name": "implacable",
-      "description": "adj. not capable of being appeased or significantly changed"
-    },
-    {
-      "name": "impunity",
-      "description": "n. immunity from punishment or penalty"
-    },
-    {
-      "name": "inchoate",
-      "description": "adj. in an initial stage; not fully formed"
-    },
-    {
-      "name": "incipient",
-      "description": "adj. beginning to come into being or to become apparent"
-    },
-    {
-      "name": "indifferent",
-      "description": "adj. having no interest or concern; showing no bias or prejudice"
-    },
-    {
-      "name": "inert",
-      "description": "adj. unmoving; lethargic; sluggish"
-    },
-    {
-      "name": "infelicitous",
-      "description": "adj. unfortunate; inappropriate"
-    },
-    {
-      "name": "ingenuous",
-      "description": "adj. artless; frank and candid; lacking in sophistication"
-    },
-    {
-      "name": "inimical",
-      "description": "adj. damaging; harmful; injurious"
-    },
-    {
-      "name": "innocuous",
-      "description": "adj. harmless; causing no damage"
-    },
-    {
-      "name": "insipid",
-      "description": "adj. without taste or flavor; lacking in spirit; bland"
-    },
-    {
-      "name": "intractable",
-      "description": "adj. not easily managed or directed; stubborn; obstinate"
-    },
-    {
-      "name": "intransigent",
-      "description": "adj. refusing to compromise (n. intransigence)"
-    },
-    {
-      "name": "intrepid",
-      "description": "adj. steadfast and courageous"
-    },
-    {
-      "name": "inured",
-      "description": "adj. accustomed to accepting something undesirable"
-    },
-    {
-      "name": "inveigle",
-      "description": "v. obtain by deception or flattery"
-    },
-    {
-      "name": "irascible",
-      "description": "adj. easily angered; prone to temperamental outbursts"
-    },
-    {
-      "name": "laconic",
-      "description": "adj. using few words; terse"
-    },
-    {
-      "name": "laud",
-      "description": "v. praise highly (adj. laudatory)"
-    },
-    {
-      "name": "loquacious",
-      "description": "adj. extremely talkative (n. loquacity)"
-    },
-    {
-      "name": "lucid",
-      "description": "adj. clear; easily understood"
-    },
-    {
-      "name": "luminous",
-      "description": "adj. characterized by brightness and the emission of light"
-    },
-    {
-      "name": "magnanimity",
-      "description": "n. the quality of being generously noble in mind and heart, esp. in forgiving (adj. magnanimous)"
-    },
-    {
-      "name": "malevolent",
-      "description": "adj. having or showing often vicious ill will, spite, or hatred (n. malevolence)"
-    },
-    {
-      "name": "malleable",
-      "description": "adj. capable of being shaped or formed; tractable; pliable"
-    },
-    {
-      "name": "martial",
-      "description": "adj. associated with war and the armed forces"
-    },
-    {
-      "name": "maverick",
-      "description": "n. an independent individual who does not go along with a group or party"
-    },
-    {
-      "name": "mendacity",
-      "description": "n. the condition of being untruthful; dishonesty (adj. mendacious)"
-    },
-    {
-      "name": "mercurial",
-      "description": "adj. characterized by rapid and unpredictable change in mood"
-    },
-    {
-      "name": "meticulous",
-      "description": "adj. characterized by extreme case and precision; attentive to detail"
-    },
-    {
-      "name": "misanthrope",
-      "description": "n. one who hates all other humans (adj. misanthropic)"
-    },
-    {
-      "name": "mitigate",
-      "description": "v. make or become less severe or intense; moderate"
-    },
-    {
-      "name": "mollify",
-      "description": "v. calm or soothe; reduce in emotional intensity"
-    },
-    {
-      "name": "morose",
-      "description": "adj. unhappy, bad–tempered and not talking very much"
-    },
-    {
-      "name": "multifarious",
-      "description": "of many different kinds; having great variety"
-    },
-    {
-      "name": "mundane",
-      "description": "adj. of the world; typical of or concerned with the ordinary"
-    },
-    {
-      "name": "nascent",
-      "description": "adj. coming into being; in early developmental stages"
-    },
-    {
-      "name": "nebulous",
-      "description": "adj. vague; cloudy; lacking clearly defined form"
-    },
-    {
-      "name": "neologism",
-      "description": "n. a new word, expression, or usage; the creation or use of new words or senses"
-    },
-    {
-      "name": "neophyte",
-      "description": "n. a recent convert; a beginner; novice"
-    },
-    {
-      "name": "noxious",
-      "description": "adj. harmful; injurious"
-    },
-    {
-      "name": "obdurate",
-      "description": "adj. unyielding; hardhearted; intractable"
-    },
-    {
-      "name": "obfuscate",
-      "description": "deliberately obscure; make confusing"
-    },
-    {
-      "name": "obsequious",
-      "description": "adj. exhibiting a fawning attentiveness"
-    },
-    {
-      "name": "obstinate",
-      "description": "adj. stubborn; hardheaded; uncompromising"
-    },
-    {
-      "name": "obtuse",
-      "description": "adj. lacking sharpness of intellect; not clear or precise in thought or expression"
-    },
-    {
-      "name": "obviate",
-      "description": "v. anticipate and make unnecessary"
-    },
-    {
-      "name": "occlude",
-      "description": "v. obstruct or block"
-    },
-    {
-      "name": "odious",
-      "description": "adj. evoking intense aversion or dislike"
-    },
-    {
-      "name": "onerous",
-      "description": "adj. troubling; burdensome"
-    },
-    {
-      "name": "opaque",
-      "description": "adj. impenetrable by light; not reflecting light"
-    },
-    {
-      "name": "opprobrium",
-      "description": "n. disgrace; contempt; scorn"
-    },
-    {
-      "name": "oscillation",
-      "description": "n. the act or state of swinging back and forth with a steady, uninterrupted rhythm (v. oscillate)"
-    },
-    {
-      "name": "ostentatious",
-      "description": "adj. characterized by or given to pretentious display; showy"
-    },
-    {
-      "name": "paean",
-      "description": "n. a song or hymn of praise and thanksgiving"
-    },
-    {
-      "name": "parody",
-      "description": "n. a humorous imitation intended for ridicule or comic effect, esp. in literature and art"
-    },
-    {
-      "name": "pedagogy",
-      "description": "n. the profession or principles of teaching, or instructing"
-    },
-    {
-      "name": "pedantic",
-      "description": "adj. the parading of learning; excessive attention to minutiae and formal rules"
-    },
-    {
-      "name": "penurious",
-      "description": "adj. penny–pinching; excessively thrifty; ungenerous"
-    },
-    {
-      "name": "penury",
-      "description": "n. poverty; destitution"
-    },
-    {
-      "name": "perennial",
-      "description": "adj. recurrent though the year or many years; happening repeatedly"
-    },
-    {
-      "name": "perfidy",
-      "description": "n. intentional breach of faith; treachery (adj. perfidious)"
-    },
-    {
-      "name": "perfunctory",
-      "description": "adj. cursory; done without care or interest"
-    },
-    {
-      "name": "pernicious",
-      "description": "adj. extremely harmful; potentially causing death"
-    },
-    {
-      "name": "perspicacious",
-      "description": "adj. acutely perceptive; having keen discernment (n. perspicacity)"
-    },
-    {
-      "name": "peruse",
-      "description": "v. examine with great care (n. perusal)"
-    },
-    {
-      "name": "pervade",
-      "description": "v. permeate throughout (adj. pervasive)"
-    },
-    {
-      "name": "pervasive",
-      "description": "adj. having the tendency to permeate or spread throughout"
-    },
-    {
-      "name": "phlegmatic",
-      "description": "adj. calm; sluggish; unemotional"
-    },
-    {
-      "name": "pine",
-      "description": "v. yearn intensely; languish; lose vigor"
-    },
-    {
-      "name": "pious",
-      "description": "adj. extremely reverent or devout; showing strong religious devotion (n. piety)"
-    },
-    {
-      "name": "pirate",
-      "description": "v. illegally use or reproduce"
-    },
-    {
-      "name": "pith",
-      "description": "n. the essential or central part"
-    },
-    {
-      "name": "pithy",
-      "description": "adj. precise and brief"
-    },
-    {
-      "name": "placate",
-      "description": "v. appease; clam by making concessions"
-    },
-    {
-      "name": "platitude",
-      "description": "n. a superficial remark, esp. one offered as meaningful"
-    },
-    {
-      "name": "plethora",
-      "description": "n. an overabundance; a surplus"
-    },
-    {
-      "name": "plummet",
-      "description": "v. plunge or drop straight down"
-    },
-    {
-      "name": "polemical",
-      "description": "adj. controversial; argumentative"
-    },
-    {
-      "name": "pragmatic",
-      "description": "adj. practical rather than idealistic"
-    },
-    {
-      "name": "prattle",
-      "description": "v. babble meaninglessly; talk in an empty and idle manner"
-    },
-    {
-      "name": "precipitate",
-      "description": "adj. acting with excessive haste or impulse, v. cause or happen before anticipated or required"
-    },
-    {
-      "name": "precursor",
-      "description": "n. one that precedes and indicates or announces another"
-    },
-    {
-      "name": "predilection",
-      "description": "n. a disposition in favor of something; preference"
-    },
-    {
-      "name": "preen",
-      "description": "v. dress up; primp; groom oneself with elaborate care"
-    },
-    {
-      "name": "prescience",
-      "description": "n. foreknowledge of events; knowing of events prior to their occurring (adj. prescient)"
-    },
-    {
-      "name": "presumptuous",
-      "description": "adj. overstepping due bounds (as of propriety or courtesy); taking liberties"
-    },
-    {
-      "name": "prevaricate",
-      "description": "v. deliberately avoid the truth; mislead"
-    },
-    {
-      "name": "pristine",
-      "description": "adj. pure; uncorrupted; clean"
-    },
-    {
-      "name": "probity",
-      "description": "n. adherence to highest principles; complete and confirmed integrity; uprightness"
-    },
-    {
-      "name": "proclivity",
-      "description": "n. a natural predisposition or inclination"
-    },
-    {
-      "name": "prodigal",
-      "description": "adj. recklessly wasteful; extravagant; profuse; lavish"
-    },
-    {
-      "name": "prodigious",
-      "description": "adj. abundant in size, force, or extent; extraordinary"
-    },
-    {
-      "name": "profligate",
-      "description": "adj. excessively wasteful; recklessly extravagant (n. profligacy)"
-    },
-    {
-      "name": "profuse",
-      "description": "adj. given or coming forth abundantly; extravagant"
-    },
-    {
-      "name": "proliferate",
-      "description": "v. grow or increase swiftly and abundantly"
-    },
-    {
-      "name": "prolific",
-      "description": "adj. producing large volumes or amounts; productive"
-    },
-    {
-      "name": "propensity",
-      "description": "n. a natural inclination or tendency, penchant"
-    },
-    {
-      "name": "prosaic",
-      "description": "adj. dull; lacking in spirit or imagination"
-    },
-    {
-      "name": "pungent",
-      "description": "adj. characterized by a strong, sharp smell or taste"
-    },
-    {
-      "name": "putrefy",
-      "description": "rot; decay and give off a foul odor (adj. putrid)"
-    },
-    {
-      "name": "quaff",
-      "description": "v. drink deeply"
-    },
-    {
-      "name": "qualm",
-      "description": "n. misgivings; reservations; causes for hesitancy"
-    },
-    {
-      "name": "queries",
-      "description": "n. questions; inquiries; doubts in the mind; reservations"
-    },
-    {
-      "name": "querulous",
-      "description": "adj. prone to complaining or grumbling; peevish"
-    },
-    {
-      "name": "quiescence",
-      "description": "n. stillness; motionlessness; quality of being at rest (adj. quiescent)"
-    },
-    {
-      "name": "quixotic",
-      "description": "adj. foolishly impractical; marked by lofty romantic ideals"
-    },
-    {
-      "name": "quotidian",
-      "description": "adj. occurring or recurring daily; commonplace"
-    },
-    {
-      "name": "rancorous",
-      "description": "adj. characterized by bitter, long–lasting resentment (n. rancor)"
-    },
-    {
-      "name": "rarefy",
-      "description": "v. make or become thin, less dense, refine"
-    },
-    {
-      "name": "recalcitrant",
-      "description": "adj. obstinately defiant of authority; difficult to manage"
-    },
-    {
-      "name": "recant",
-      "description": "v. retract, esp. a previously held belief"
-    },
-    {
-      "name": "recondite",
-      "description": "adj. hidden; concealed; difficult to understand; obscure"
-    },
-    {
-      "name": "redoubtable",
-      "description": "adj. awe–inspiring; worthy of honor"
-    },
-    {
-      "name": "refulgent",
-      "description": "adj. radiant; shiny; brilliant"
-    },
-    {
-      "name": "refute",
-      "description": "v. disprove; successfully argue against"
-    },
-    {
-      "name": "relegate",
-      "description": "v. forcibly assign, esp. to a lower place or position"
-    },
-    {
-      "name": "renege",
-      "description": "v. fail to honor a commitment; go back on a promise"
-    },
-    {
-      "name": "repudiate",
-      "description": "v. refuse to have anything to do with; disown"
-    },
-    {
-      "name": "rescind",
-      "description": "v. invalidate; repeal; retract"
-    },
-    {
-      "name": "reticent",
-      "description": "adj. quiet; reserved; reluctant to express thoughts and feelings"
-    },
-    {
-      "name": "reverent",
-      "description": "adj. marked by, feeling, or expressing a feeling of profound awe and respect (n. reverence)"
-    },
-    {
-      "name": "rhetoric",
-      "description": "n. the art or study of effective use of language for communication and persuasion"
-    },
-    {
-      "name": "salubrious",
-      "description": "adj. promoting health or well–being"
-    },
-    {
-      "name": "sanction",
-      "description": "n. / v. authoritative permission or approval; a penalty intended to enforce compliance; give permission or authority to"
-    },
-    {
-      "name": "satire",
-      "description": "n. a way of criticizing a person, an idea or an institution in which you use humor to show their faults or weaknesses; a piece of writing that uses this type of criticism"
-    },
-    {
-      "name": "sedulous",
-      "description": "adj. diligent; persistent; hardworking"
-    },
-    {
-      "name": "shard",
-      "description": "n. a piece of broken pottery or glass"
-    },
-    {
-      "name": "solicitous",
-      "description": "adj. concerned and attentive; eager"
-    },
-    {
-      "name": "solvent",
-      "description": "adj. able to meet financial obligations; able to dissolve another substance"
-    },
-    {
-      "name": "soporific",
-      "description": "adj. causing drowsiness; tending to induce sleep"
-    },
-    {
-      "name": "sordid",
-      "description": "adj. characterized by filth, grime, or squalor; foul"
-    },
-    {
-      "name": "sparse",
-      "description": "adj. thin; not dense; arranged at widely spaced intervals"
-    },
-    {
-      "name": "specious",
-      "description": "adj. seeming true, but actually being fallacious; misleadingly attractive; plausible but false"
-    },
-    {
-      "name": "spendthrift",
-      "description": "n. one who spends money wastefully"
-    },
-    {
-      "name": "sporadic",
-      "description": "adj. occurring only occasionally, or in scattered instances"
-    },
-    {
-      "name": "spurious",
-      "description": "adj. lacking authenticity or validity; false; counterfeit"
-    },
-    {
-      "name": "squalid",
-      "description": "adj. sordid; wretched and dirty as from neglect (n. squalor)"
-    },
-    {
-      "name": "squander",
-      "description": "v. waste by spending or using irresponsibly"
-    },
-    {
-      "name": "static",
-      "description": "adj. not moving, active, or in motion; at rest"
-    },
-    {
-      "name": "stoic",
-      "description": "adj. indifferent to or unaffected by pleasure or pain (stoicism)"
-    },
-    {
-      "name": "stupefy",
-      "description": "v. stun, baffle, or amaze"
-    },
-    {
-      "name": "stymie",
-      "description": "v. block; thwart"
-    },
-    {
-      "name": "subpoena",
-      "description": "n. a court order requiring appearance and/or testimony"
-    },
-    {
-      "name": "subtle",
-      "description": "adj. not obvious; elusive; difficult to discern"
-    },
-    {
-      "name": "succinct",
-      "description": "adj. brief; concise"
-    },
-    {
-      "name": "superfluous",
-      "description": "adj. exceeding what is sufficient or necessary"
-    },
-    {
-      "name": "supplant",
-      "description": "v. take the place of; supersede"
-    },
-    {
-      "name": "surfeit",
-      "description": "n./v. an overabundant supply; excess; feed or supply to excess"
-    },
-    {
-      "name": "synthesis",
-      "description": "n. the combination of parts to make a whole (v. synthesize)"
-    },
-    {
-      "name": "tacit",
-      "description": "adj. implied; not explicitly stated"
-    },
-    {
-      "name": "tenacity",
-      "description": "n. the quality of adherence or persistence to something valued; persistent determination (adj. tenacious)"
-    },
-    {
-      "name": "tenuous",
-      "description": "adj. having little substance or strength; flimsy; weak"
-    },
-    {
-      "name": "terse",
-      "description": "adj. brief and concise in wording"
-    },
-    {
-      "name": "tirade",
-      "description": "n. a long and extremely critical speech; a harsh denunciation"
-    },
-    {
-      "name": "torpid",
-      "description": "adj. lethargic; sluggish; dormant (n. torpor)"
-    },
-    {
-      "name": "torque",
-      "description": "n. a force that causes rotation"
-    },
-    {
-      "name": "tortuous",
-      "description": "adj. winding; twisting; excessively complicated"
-    },
-    {
-      "name": "tout",
-      "description": "v. publicly praise or promote"
-    },
-    {
-      "name": "transient",
-      "description": "adj. fleeting; passing quickly; brief"
-    },
-    {
-      "name": "trenchant",
-      "description": "adj. sharply perceptive; keen; penetrating"
-    },
-    {
-      "name": "truculent",
-      "description": "adj. fierce and cruel; eager to fight"
-    },
-    {
-      "name": "ubiquitous",
-      "description": "adj. existing everywhere at the same time; constantly encountered; widespread"
-    },
-    {
-      "name": "unfeigned",
-      "description": "adj. genuine; not false or hypocritical"
-    },
-    {
-      "name": "untenable",
-      "description": "adj. indefensible; not viable; uninhabitable"
-    },
-    {
-      "name": "urbane",
-      "description": "adj. sophisticated; refined; elegant (n. urbanity)"
-    },
-    {
-      "name": "vacillate",
-      "description": "v. waver indecisively between one course of action or opinion and another; waver"
-    },
-    {
-      "name": "variegated",
-      "description": "adj. multicolored; characterized by a variety of patches of different color"
-    },
-    {
-      "name": "veracity",
-      "description": "n. truthfulness; honesty"
-    },
-    {
-      "name": "vexation",
-      "description": "n. annoyance; irritation (v. vex)"
-    },
-    {
-      "name": "vigilant",
-      "description": "adj. alertly watchful (n. vigilance)"
-    },
-    {
-      "name": "vilify",
-      "description": "v. defame; characterize harshly"
-    },
-    {
-      "name": "virulent",
-      "description": "adj. extremely harmful or poisonous; bitterly hostile or antagonistic"
-    },
-    {
-      "name": "viscous",
-      "description": "adj. thick; sticky (n. viscosity)"
-    },
-    {
-      "name": "vituperate",
-      "description": "v. use harsh condemnatory language; abuse or censure severely or abusively; berate"
-    },
-    {
-      "name": "volatile",
-      "description": "adj. readily changing to a vapor; changeable; fickle; explosive (n. volatility)"
-    },
-    {
-      "name": "voracious",
-      "description": "adj. having an insatiable appetite for an activity or pursuit; ravenous"
-    },
-    {
-      "name": "waver",
-      "description": "v. move to and fro; sway; be unsettled in opinion"
-    },
-    {
-      "name": "zealous",
-      "description": "adj. fervent; ardent; impassioned; devoted to a cause (cf. zealot)"
-    }
-   ]
+[{
+		"name": "abate",
+		"description": "v. lessen in intensity of degree",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "aberrant",
+		"description": "adj. deviating from the norm (n. aberration)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "abscond",
+		"description": "v. depart clandestinely; steal off and hide",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "accolade",
+		"description": "n. an expression of praise",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "acerbic",
+		"description": "adj. having a sour or bitter taste or character; sharp; biting",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "acumen",
+		"description": "n. keen, accurate judgement or insight",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "adulation",
+		"description": "n. excessive praise; intense adoration",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "adulterate",
+		"description": "v. reduce purity by combining with inferior ingredients",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "aesthetic",
+		"description": "adj. dealing with, appreciative of, or responsive to art or the beautiful",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "aggrandize",
+		"description": "v. increase in intensity, power, influence, or prestige",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "alacrity",
+		"description": "n. great willingness or enthusiasm",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "alchemy",
+		"description": "n. a medieval science aimed at the transmutation of metals, esp. base metals into gold",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "amalgamate",
+		"description": "v. combine several elements into a whole (n. amalgamation)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "ameliorate",
+		"description": "v. make better or more tolerable",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "amenable",
+		"description": "adj. agreeable; responsive to suggestion",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "anachronism",
+		"description": "n. something or someone out of place in terms of historical or chronological context",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "anomaly",
+		"description": "n. deviation from the normal order, form, or rule; abnormality (adj. anomalous)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "approbation",
+		"description": "n. an expression of approval or praise",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "archaic",
+		"description": "adj. outdated; associated with an earlier, perhaps more primitive, time",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "arduous",
+		"description": "adj. strenuous; taxing; requiring significant effort",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "ascetic",
+		"description": "n. one who practices rigid self–denial, esp. as an act of religious devotion",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "assuage",
+		"description": "v. ease or lessen; appease or pacify",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "astringent",
+		"description": "adj./n. having a tightening effect on living tissue; harsh; severe",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "audacious",
+		"description": "adj. daring and fearless; recklessly bold (n. audacity)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "austere",
+		"description": "adj. without adornment; bare; severely simple; ascetic (n. austerity)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "avarice",
+		"description": "n. greed, esp. for wealth (adj. avaricious)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "aver",
+		"description": "v. state as a fact; declare or assert",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "axiom",
+		"description": "n. a universally recognized principle (adj. axiomatic)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "axiomatic",
+		"description": "adj. taken as a given; possessing self–evident truth (n. axiom)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "bolster",
+		"description": "v. provide support or reinforcement",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "bombast",
+		"description": "n. self–important or pompous writing or speech (adj. bombastic)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "bombastic",
+		"description": "adj. pompous; grandiloquent (n. bombast)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "bucolic",
+		"description": "adj. rustic and pastoral; characteristic of rural areas and their inhabitants",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "burgeon",
+		"description": "v. grow rapidly or flourish",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "cacophony",
+		"description": "n. harsh, jarring, discordant sound; dissonance (adj. cacophonous)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "canon",
+		"description": "n. an established set of principles or code of laws, often religious in nature (adj. canonical)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "canonical",
+		"description": "adj. following or in agreement with accepted, traditional standards (n. canon)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "capricious",
+		"description": "adj. inclined to change one's mind impulsively; erratic; unpredictable",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "castigation",
+		"description": "n. severe criticism or punishment (v. castigate)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "catalyst",
+		"description": "n. a substance that accelerates the rate of a chemical reaction without itself changing; a person of thing that causes change",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "caustic",
+		"description": "adj. burning or stinging; causing corrosion",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "censure",
+		"description": "v. criticize severely; officially rebuke",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "chary",
+		"description": "adj. wary; cautious; sparing",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "chicanery",
+		"description": "n. trickery or subterfuge",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "cogent",
+		"description": "adj. appealing forcibly to the mind or reason; convincing",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "complaisance",
+		"description": "n. the willingness to comply with wishes of others (adj. complaisant)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "connoisseur",
+		"description": "n. an informed and astute judge in matters of taste; expert",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "contentious",
+		"description": "adj. argumentative; quarrelsome; causing controversy or disagreement",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "contiguous",
+		"description": "adj. sharing a border; touching; adjacent",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "contrite",
+		"description": "adj. regretful; penitent; seeking forgiveness (n. contrition)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "convention",
+		"description": "n. a generally agreed–upon practice or attitude",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "convoluted",
+		"description": "adj. complex or complicated",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "credulous",
+		"description": "adj. tending to believe too readily; gullible (n. credulity)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "culpable",
+		"description": "adj. deserving blame (n. culpability)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "cynicism",
+		"description": "n. an attitude or quality of belief that all people are motivated by selfishness (adj. cynical)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "dearth",
+		"description": "n. smallness of quantity or number; scarcity; a lack",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "decorum",
+		"description": "n. polite or appropriate conduct or behavior (adj. decorous)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "demur",
+		"description": "v. question or oppose",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "derision",
+		"description": "n. scorn; ridicule; contemptuous treatment (adj. derisive, v. deride)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "desiccate",
+		"description": "v. dry out or dehydrate; make dry or dull",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "diatribe",
+		"description": "n. a harsh denunciation",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "didactic",
+		"description": "adj. intended to teach or instruct",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "dilettante",
+		"description": "n. one with an amateurish or superficial interest in the arts or a branch of knowledge",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "disabuse",
+		"description": "v. undeceive; set right",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "discordant",
+		"description": "adj. conflicting; dissonant or harsh in mind",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "discretion",
+		"description": "n. cautious reserve in speech; ability to make responsible decisions (adj. discreet)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "disinterested",
+		"description": "adj. free of bias of self–interest; impartial",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "disparage",
+		"description": "v. slight or belittle",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "disparate",
+		"description": "adj. fundamentally distinct or dissimilar",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "dissemble",
+		"description": "v. disguise or conceal; mislead",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "divulge",
+		"description": "v. disclose something secret",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "dogmatic",
+		"description": "adj. expressing a rigid opinion based on unproved or unprovable principles (n. dogma)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "ebullience",
+		"description": "adj. the quality of lively or enthusiastic expression of thoughts and feelings (adj. ebullient)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "eccentric",
+		"description": "adj. departing from norms or conventions",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "eclectic",
+		"description": "adj. composed of elements drawn from various sources",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "effrontery",
+		"description": "n. extreme boldness; presumptuousness",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "elegy",
+		"description": "n. a mournful poem, esp. one lamenting the dead (adj. elegiac)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "eloquent",
+		"description": "adj. well–spoken; expressive; articulate (n. eloquence)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "emollient",
+		"description": "adj. / n. soothing, esp. to the skin; making less harsh; mollifying; an agent that softens of smoothes the skin",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "empirical",
+		"description": "adj. based on observation or experiment",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "endemic",
+		"description": "adj. characteristic of or often found in a particular locality, region, or people",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "enervate",
+		"description": "v. weaken; reduce in vitality",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "enigmatic",
+		"description": "adj. mysterious; obscure; difficult to understand (n. enigma)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "ennui",
+		"description": "n. dissatisfaction and restlessness resulting from boredom or apathy",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "ephemeral",
+		"description": "lasting or used for only a short period of time",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "equivocate",
+		"description": "v. use ambiguous language with a deceptive intent (adj. equivocal)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "erudite",
+		"description": "adj. very learned; scholarly (n. erudition)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "esoteric",
+		"description": "adj. intended for or understood by a small, specific group",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "eulogy",
+		"description": "n. a speech or piece of writing praising somebody/something very much",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "evanescent",
+		"description": "adj. tending to disappear like vapor; vanishing",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "exacerbate",
+		"description": "v. make worse or more severe",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "exculpate",
+		"description": "v. exonerate; clear of blame",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "exigent",
+		"description": "adj. urgent; pressing; requiring immediate action or attention",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "exonerate",
+		"description": "v. remove blame",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "extemporaneous",
+		"description": "adj. improvised; done without preparation",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "facetious",
+		"description": "adj. playful; humorous",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "fallacy",
+		"description": "n. an invalid or incorrect notion; a mistaken belief (adj. fallacious)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "fawn",
+		"description": "v. flatter or praise excessively",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "fervent",
+		"description": "adj. greatly emotional or zealous (n. fervor)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "filibuster",
+		"description": "n. intentional obstruction, esp. using prolonged speechmaking to delay legislative action",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "flout",
+		"description": "v. show contempt for, as in a rule or convention",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "fortuitous",
+		"description": "adj. happening by accident or chance",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "fulminate",
+		"description": "v. loudly attack or denounce",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "furtive",
+		"description": "adj. marked by stealth; covert; surreptitious",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "garrulous",
+		"description": "adj. pointlessly talkative, talking too much",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "germane",
+		"description": "adj. relevant to the subject at hand; appropriate in subject matter",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "glib",
+		"description": "adj. marked by ease or informality; nonchalant; lacking in depth; superficial",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "grandiloquence",
+		"description": "n. pompous speech or expression (adj. grandiloquent)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "gregarious",
+		"description": "adj. sociable; outgoing; enjoying the company of other people",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "hackneyed",
+		"description": "adj. rendered trite or commonplace by frequent usage",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "halcyon",
+		"description": "adj. calm and peaceful",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "harangue",
+		"description": "v. / n. deliver a pompous speech or tirade; a long, pompous speech",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "hedonism",
+		"description": "n. devotion to pleasurable pursuits, esp. to the pleasures of the senses ( a hedonist is someone who purses pleasure)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "hegemony",
+		"description": "n. the consistent dominance of one state or ideology over others",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "heretical",
+		"description": "adj. violating accepted dogma or convention (n. heresy)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "hubris",
+		"description": "n. overbearing presumption or pride; arrogance",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "hyperbole",
+		"description": "n. an exaggerated statement, often used as a figure of speech (adj. hyperbolic)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "iconoclast",
+		"description": "a person who criticizes popular beliefs or established customs and ideas",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "idolatrous",
+		"description": "adj. given to intense or excessive devotion to something (n. idolatry)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "imminent",
+		"description": "adj. about to happen; impending",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "immutable",
+		"description": "adj. not capable of change",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "impassive",
+		"description": "adj. revealing no emotion",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "impecunious",
+		"description": "adj. lacking funds; without money",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "imperturbable",
+		"description": "adj. marked by extreme clam, impassivity, and steadiness",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "impetuous",
+		"description": "adj. hastily or rashly energetic; impulsive and vehement",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "implacable",
+		"description": "adj. not capable of being appeased or significantly changed",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "impunity",
+		"description": "n. immunity from punishment or penalty",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "inchoate",
+		"description": "adj. in an initial stage; not fully formed",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "incipient",
+		"description": "adj. beginning to come into being or to become apparent",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "indifferent",
+		"description": "adj. having no interest or concern; showing no bias or prejudice",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "inert",
+		"description": "adj. unmoving; lethargic; sluggish",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "infelicitous",
+		"description": "adj. unfortunate; inappropriate",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "ingenuous",
+		"description": "adj. artless; frank and candid; lacking in sophistication",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-s,hadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "inimical",
+		"description": "adj. damaging; harmful; injurious",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "innocuous",
+		"description": "adj. harmless; causing no damage",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "insipid",
+		"description": "adj. without taste or flavor; lacking in spirit; bland",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "intractable",
+		"description": "adj. not easily managed or directed; stubborn; obstinate",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "intransigent",
+		"description": "adj. refusing to compromise (n. intransigence)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "intrepid",
+		"description": "adj. steadfast and courageous",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "inured",
+		"description": "adj. accustomed to accepting something undesirable",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "inveigle",
+		"description": "v. obtain by deception or flattery",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "irascible",
+		"description": "adj. easily angered; prone to temperamental outbursts",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "laconic",
+		"description": "adj. using few words; terse",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "laud",
+		"description": "v. praise highly (adj. laudatory)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "loquacious",
+		"description": "adj. extremely talkative (n. loquacity)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "lucid",
+		"description": "adj. clear; easily understood",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "luminous",
+		"description": "adj. characterized by brightness and the emission of light",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "magnanimity",
+		"description": "n. the quality of being generously noble in mind and heart, esp. in forgiving (adj. magnanimous)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "malevolent",
+		"description": "adj. having or showing often vicious ill will, spite, or hatred (n. malevolence)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "malleable",
+		"description": "adj. capable of being shaped or formed; tractable; pliable",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "martial",
+		"description": "adj. associated with war and the armed forces",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "maverick",
+		"description": "n. an independent individual who does not go along with a group or party",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "mendacity",
+		"description": "n. the condition of being untruthful; dishonesty (adj. mendacious)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "mercurial",
+		"description": "adj. characterized by rapid and unpredictable change in mood",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "meticulous",
+		"description": "adj. characterized by extreme case and precision; attentive to detail",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "misanthrope",
+		"description": "n. one who hates all other humans (adj. misanthropic)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "mitigate",
+		"description": "v. make or become less severe or intense; moderate",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "mollify",
+		"description": "v. calm or soothe; reduce in emotional intensity",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "morose",
+		"description": "adj. unhappy, bad–tempered and not talking very much",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "multifarious",
+		"description": "of many different kinds; having great variety",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "mundane",
+		"description": "adj. of the world; typical of or concerned with the ordinary",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "nascent",
+		"description": "adj. coming into being; in early developmental stages",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "nebulous",
+		"description": "adj. vague; cloudy; lacking clearly defined form",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "neologism",
+		"description": "n. a new word, expression, or usage; the creation or use of new words or senses",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "neophyte",
+		"description": "n. a recent convert; a beginner; novice",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "noxious",
+		"description": "adj. harmful; injurious",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "obdurate",
+		"description": "adj. unyielding; hardhearted; intractable",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "obfuscate",
+		"description": "deliberately obscure; make confusing",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "obsequious",
+		"description": "adj. exhibiting a fawning attentiveness",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "obstinate",
+		"description": "adj. stubborn; hardheaded; uncompromising",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "obtuse",
+		"description": "adj. lacking sharpness of intellect; not clear or precise in thought or expression",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "obviate",
+		"description": "v. anticipate and make unnecessary",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "occlude",
+		"description": "v. obstruct or block",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "odious",
+		"description": "adj. evoking intense aversion or dislike",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "onerous",
+		"description": "adj. troubling; burdensome",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "opaque",
+		"description": "adj. impenetrable by light; not reflecting light",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "opprobrium",
+		"description": "n. disgrace; contempt; scorn",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "oscillation",
+		"description": "n. the act or state of swinging back and forth with a steady, uninterrupted rhythm (v. oscillate)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "ostentatious",
+		"description": "adj. characterized by or given to pretentious display; showy",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "paean",
+		"description": "n. a song or hymn of praise and thanksgiving",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "parody",
+		"description": "n. a humorous imitation intended for ridicule or comic effect, esp. in literature and art",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "pedagogy",
+		"description": "n. the profession or principles of teaching, or instructingcc",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "pedantic",
+		"description": "adj. the parading of learning; excessive attention to minutiae and formal rules",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "penurious",
+		"description": "adj. penny–pinching; excessively thrifty; ungenerous",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "penury",
+		"description": "n. poverty; destitution",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "perennial",
+		"description": "adj. recurrent though the year or many years; happening repeatedly",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "perfidy",
+		"description": "n. intentional breach of faith; treachery (adj. perfidious)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "perfunctory",
+		"description": "adj. cursory; done without care or interest",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "pernicious",
+		"description": "adj. extremely harmful; potentially causing death",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "perspicacious",
+		"description": "adj. acutely perceptive; having keen discernment (n. perspicacity)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "peruse",
+		"description": "v. examine with great care (n. perusal)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "pervade",
+		"description": "v. permeate throughout (adj. pervasive)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "pervasive",
+		"description": "adj. having the tendency to permeate or spread throughout",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "phlegmatic",
+		"description": "adj. calm; sluggish; unemotional",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "pine",
+		"description": "v. yearn intensely; languish; lose vigor",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "pious",
+		"description": "adj. extremely reverent or devout; showing strong religious devotion (n. piety)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "pirate",
+		"description": "v. illegally use or reproduce",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "pith",
+		"description": "n. the essential or central part",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "pithy",
+		"description": "adj. precise and brief",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "placate",
+		"description": "v. appease; clam by making concessions",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "platitude",
+		"description": "n. a superficial remark, esp. one offered as meaningful",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "plethora",
+		"description": "n. an overabundance; a surplus",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "plummet",
+		"description": "v. plunge or drop straight down",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "polemical",
+		"description": "adj. controversial; argumentative",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "pragmatic",
+		"description": "adj. practical rather than idealistic",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "prattle",
+		"description": "v. babble meaninglessly; talk in an empty and idle manner",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "precipitate",
+		"description": "adj. acting with excessive haste or impulse, v. cause or happen before anticipated or required",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "precursor",
+		"description": "n. one that precedes and indicates or announces another",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "predilection",
+		"description": "n. a disposition in favor of something; preference",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "preen",
+		"description": "v. dress up; primp; groom oneself with elaborate care",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "prescience",
+		"description": "n. foreknowledge of events; knowing of events prior to their occurring (adj. prescient)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "presumptuous",
+		"description": "adj. overstepping due bounds (as of propriety or courtesy); taking liberties",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "prevaricate",
+		"description": "v. deliberately avoid the truth; mislead",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "pristine",
+		"description": "adj. pure; uncorrupted; clean",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "probity",
+		"description": "n. adherence to highest principles; complete and confirmed integrity; uprightness",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "proclivity",
+		"description": "n. a natural predisposition or inclination",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "prodigal",
+		"description": "adj. recklessly wasteful; extravagant; profuse; lavish",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "prodigious",
+		"description": "adj. abundant in size, force, or extent; extraordinary",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "profligate",
+		"description": "adj. excessively wasteful; recklessly extravagant (n. profligacy)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "profuse",
+		"description": "adj. given or coming forth abundantly; extravagant",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "proliferate",
+		"description": "v. grow or increase swiftly and abundantly",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "prolific",
+		"description": "adj. producing large volumes or amounts; productive",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "propensity",
+		"description": "n. a natural inclination or tendency, penchant",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "prosaic",
+		"description": "adj. dull; lacking in spirit or imagination",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "pungent",
+		"description": "adj. characterized by a strong, sharp smell or taste",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "putrefy",
+		"description": "rot; decay and give off a foul odor (adj. putrid)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "quaff",
+		"description": "v. drink deeply",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "qualm",
+		"description": "n. misgivings; reservations; causes for hesitancy",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "queries",
+		"description": "n. questions; inquiries; doubts in the mind; reservations",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "querulous",
+		"description": "adj. prone to complaining or grumbling; peevish",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "quiescence",
+		"description": "n. stillness; motionlessness; quality of being at rest (adj. quiescent)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "quixotic",
+		"description": "adj. foolishly impractical; marked by lofty romantic ideals",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "quotidian",
+		"description": "adj. occurring or recurring daily; commonplace",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "rancorous",
+		"description": "adj. characterized by bitter, long–lasting resentment (n. rancor)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "rarefy",
+		"description": "v. make or become thin, less dense, refine",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "recalcitrant",
+		"description": "adj. obstinately defiant of authority; difficult to manage",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "recant",
+		"description": "v. retract, esp. a previously held belief",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "recondite",
+		"description": "adj. hidden; concealed; difficult to understand; obscure",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "redoubtable",
+		"description": "adj. awe–inspiring; worthy of honor",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "refulgent",
+		"description": "adj. radiant; shiny; brilliant",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "refute",
+		"description": "v. disprove; successfully argue against",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "relegate",
+		"description": "v. forcibly assign, esp. to a lower place or position",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "renege",
+		"description": "v. fail to honor a commitment; go back on a promise",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "repudiate",
+		"description": "v. refuse to have anything to do with; disown",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "rescind",
+		"description": "v. invalidate; repeal; retract",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "reticent",
+		"description": "adj. quiet; reserved; reluctant to express thoughts and feelings",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "reverent",
+		"description": "adj. marked by, feeling, or expressing a feeling of profound awe and respect (n. reverence)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "rhetoric",
+		"description": "n. the art or study of effective use of language for communication and persuasion",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "salubrious",
+		"description": "adj. promoting health or well–being",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "sanction",
+		"description": "n. / v. authoritative permission or approval; a penalty intended to enforce compliance; give permission or authority to",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "satire",
+		"description": "n. a way of criticizing a person, an idea or an institution in which you use humor to show their faults or weaknesses; a piece of writing that uses this type of criticism",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "sedulous",
+		"description": "adj. diligent; persistent; hardworking",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "shard",
+		"description": "n. a piece of broken pottery or glass",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "solicitous",
+		"description": "adj. concerned and attentive; eager",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "solvent",
+		"description": "adj. able to meet financial obligations; able to dissolve another substance",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "soporific",
+		"description": "adj. causing drowsiness; tending to induce sleep",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "sordid",
+		"description": "adj. characterized by filth, grime, or squalor; foul",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "sparse",
+		"description": "adj. thin; not dense; arranged at widely spaced intervals",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "specious",
+		"description": "adj. seeming true, but actually being fallacious; misleadingly attractive; plausible but false",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "spendthrift",
+		"description": "n. one who spends money wastefully",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "sporadic",
+		"description": "adj. occurring only occasionally, or in scattered instances",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "spurious",
+		"description": "adj. lacking authenticity or validity; false; counterfeit",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "squalid",
+		"description": "adj. sordid; wretched and dirty as from neglect (n. squalor)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "squander",
+		"description": "v. waste by spending or using irresponsibly",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "static",
+		"description": "adj. not moving, active, or in motion; at rest",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "stoic",
+		"description": "adj. indifferent to or unaffected by pleasure or pain (stoicism)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "stupefy",
+		"description": "v. stun, baffle, or amaze",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "stymie",
+		"description": "v. block; thwart",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "subpoena",
+		"description": "n. a court order requiring appearance and/or testimony",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "subtle",
+		"description": "adj. not obvious; elusive; difficult to discern",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "succinct",
+		"description": "adj. brief; concise",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "superfluous",
+		"description": "adj. exceeding what is sufficient or necessary",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "supplant",
+		"description": "v. take the place of; supersede",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "surfeit",
+		"description": "n./v. an overabundant supply; excess; feed or supply to excess",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "synthesis",
+		"description": "n. the combination of parts to make a whole (v. synthesize)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "tacit",
+		"description": "adj. implied; not explicitly stated",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "tenacity",
+		"description": "n. the quality of adherence or persistence to something valued; persistent determination (adj. tenacious)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "tenuous",
+		"description": "adj. having little substance or strength; flimsy; weak",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "terse",
+		"description": "adj. brief and concise in wording",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "tirade",
+		"description": "n. a long and extremely critical speech; a harsh denunciation",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "torpid",
+		"description": "adj. lethargic; sluggish; dormant (n. torpor)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "torque",
+		"description": "n. a force that causes rotation",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "tortuous",
+		"description": "adj. winding; twisting; excessively complicated",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "tout",
+		"description": "v. publicly praise or promote",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "transient",
+		"description": "adj. fleeting; passing quickly; brief",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "trenchant",
+		"description": "adj. sharply perceptive; keen; penetrating",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "truculent",
+		"description": "adj. fierce and cruel; eager to fight",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "ubiquitous",
+		"description": "adj. existing everywhere at the same time; constantly encountered; widespread",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "unfeigned",
+		"description": "adj. genuine; not false or hypocritical",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "untenable",
+		"description": "adj. indefensible; not viable; uninhabitable",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "urbane",
+		"description": "adj. sophisticated; refined; elegant (n. urbanity)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "vacillate",
+		"description": "v. waver indecisively between one course of action or opinion and another; waver",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "variegated",
+		"description": "adj. multicolored; characterized by a variety of patches of different color",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "veracity",
+		"description": "n. truthfulness; honesty",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "vexation",
+		"description": "n. annoyance; irritation (v. vex)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "vigilant",
+		"description": "adj. alertly watchful (n. vigilance)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "vilify",
+		"description": "v. defame; characterize harshly",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "virulent",
+		"description": "adj. extremely harmful or poisonous; bitterly hostile or antagonistic",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "viscous",
+		"description": "adj. thick; sticky (n. viscosity)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "vituperate",
+		"description": "v. use harsh condemnatory language; abuse or censure severely or abusively; berate",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "volatile",
+		"description": "adj. readily changing to a vapor; changeable; fickle; explosive (n. volatility)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "voracious",
+		"description": "adj. having an insatiable appetite for an activity or pursuit; ravenous",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "waver",
+		"description": "v. move to and fro; sway; be unsettled in opinion",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	},
+	{
+		"name": "zealous",
+		"description": "adj. fervent; ardent; impassioned; devoted to a cause (cf. zealot)",
+		"img": "https://p1.hiclipart.com/preview/250/74/411/microsoft-office-2013-long-shadow-icons-word-shadow-png-icon.jpg"
+	}
+]
